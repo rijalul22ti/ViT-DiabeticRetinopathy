@@ -1,0 +1,7 @@
+How to:
+1. python -m venv env
+2. export GEMINI_API_KEY="Api-Key-Kamu"
+3. python main.py
+
+Note:
+Hubungkan aplikasi Android ke jaringan yang sama dengan server, kemudian ubah IP server menjadi 192.168.43.212
