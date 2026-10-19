@@ -1,5 +1,5 @@
 # ViT Diabetic Retinopathy
-Dataset original:
+Dataset original:  
 https://www.kaggle.com/competitions/aptos2019-blindness-detection
 
 Dataset hasil preprocessing (digunakan untuk train model DeiT III & ViT-5):
